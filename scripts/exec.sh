@@ -1,0 +1,1 @@
+docker-compose run --rm otpauth sh otpauth_command.sh
